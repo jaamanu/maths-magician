@@ -21,9 +21,9 @@ copy the url to your local https://github.com/jaamanu/maths-magician.git
 
 ## JAMES ASIBEY MANU
 
--GitHub:https://github.com/jaamanu
--Twitter:@JamesAsibeyManu
--LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
+- GitHub:https://github.com/jaamanu
+- Twitter:@JamesAsibeyManu
+- LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
 
 
 ## 🤝 Contributing

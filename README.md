@@ -1,5 +1,5 @@
 # Project Name 
-##  Math Magician React Project
+  Math Magician React Project
 
 # Description of project.
 "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:

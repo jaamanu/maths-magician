@@ -5,7 +5,14 @@
 }
 
 :root {
-  --orange: rgb(240, 100, 8);
+  --orange: rgba(255, 115, 0, 0.938);
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
 }
 
 .border {

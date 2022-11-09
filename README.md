@@ -1,29 +1,45 @@
-# React Project Setup
-This website is a single webpage for maths application to do mathematics calculation built with react and other technologies 
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Maths magician: Full Website with React router
+
+> In this project I developed a full webpage with several pages.Home, Calculator, and Quote
 
 ## Built With
-- visual studio.NET
-- github
+
+- React Router
+- Webpack
+- CSS
+- JavaScript
+- Git and GitFlow
+
+## Live Demo (if available)
+
+[Live Demo Link]()
 
 ## Getting Started
 
+\*\* this project runs on any browser
+
 To get a local copy up and running follow these simple example steps.
 
+Go to github and clone the repository
+
+- git clone https://github.com/jaamanu/maths-magician.git
+- cd math-Magician
+- npm install
+- npm start
+
 ### Prerequisites
-VS code
-linters
 
-### Setup
-copy the url to your local https://github.com/jaamanu/maths-magician.git
+Any browser
 
-### Live Demo 
+👤 **James Asibey Manu**
+
+- GitHub: [@githubhandle](https://github.com/jaamanu)
+- Twitter: [@twitterhandle](https://twitter.com/@JamesAsibeyManu)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/jamesasibeymanu)
 
 
-## JAMES ASIBEY MANU
-
-- GitHub:https://github.com/jaamanu
-- Twitter:@JamesAsibeyManu
-- LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
 
 
 ## 🤝 Contributing
@@ -37,8 +53,11 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Microverse Reviewers and support team §
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.MD) licensed.

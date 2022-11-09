@@ -18,7 +18,7 @@
 # Getting starting 
 To get a local copy up and running follow these simple example steps:
 
-- git clone git@github.com:jaamanu/maths-magician.git
+- git clone [github](https://github.com/jaamanu/maths-magician)
 - npm install
 - npm start
 

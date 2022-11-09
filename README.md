@@ -1,44 +1,55 @@
-# React Project Setup
-This website is a single webpage for maths application to do mathematics calculation built with react and other technologies 
+## Project Name 
+#  Math Magician React Project
 
-## Built With
-- visual studio.NET
-- github
+# Description of project.
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- Make simple calculations.
+- Read a random math-related quote.
+- This project was based on learning React.
 
-## Getting Started
+## Project web demo link.
+[live demo](https://timely-sprite-6d1f1f.netlify.app)
 
-To get a local copy up and running follow these simple example steps.
+## Built With 
+- React
+- Css. 
+- JS.
 
-### Prerequisites
-VS code
-linters
+# Getting starting 
+To get a local copy up and running follow these simple example steps:
 
-### Setup
-copy the url to your local https://github.com/jaamanu/maths-magician.git
+- git clone git@github.com:jaamanu/maths-magician.git
+- npm install
+- npm start
 
-### Live Demo 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Prerequisites
+ Vscode. 
+ must have git installed.
+   
 
 ## JAMES ASIBEY MANU
 
-- GitHub:https://github.com/jaamanu
-- Twitter:@JamesAsibeyManu
-- LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu)
+- GitHub:[@jaamanu](https://github.com/jaamanu)
+- Twitter:[@JamesAsibeyManu](https://twitter.com/JamesAsibeyManu)
+- LinkedIn:[@jamesasibeymanu](https://www.linkedin.com/in/jamesasibeymanu)
 
 
-## 🤝 Contributing
+# 🤝 Contributing
+ Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
 
-Contributions, issues, and feature requests are welcome!
+ ## Deployment
+  Push changes to a branch. Wait for the build to pass on our CI server. Tell Hubot to deploy it. Verify that the changes work and fix any problems that come up. Merge the branch into master.
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
+## Show your support 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-- Microverse Reviewers and support team §
+## Acknowledgments 
+MICROVERSE and My Team.
 
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
+This project is MIT licensed.
